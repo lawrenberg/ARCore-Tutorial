@@ -34,5 +34,4 @@ sysinfo.txt
 *.unitypackage
 
 .idea/
-ARCore-Codelab.apk_FILES
-Lawren-ARCore-Codelab.apk_FILES
+*ARCore-Codelab*
